@@ -13,6 +13,7 @@
       "distribution": "internal"
     },
     "production": {
+      "workflow": "managed",
       "autoIncrement": true,
       "distribution": "store",
       "android": {
