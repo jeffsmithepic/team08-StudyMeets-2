@@ -1,5 +1,8 @@
 {
   "expo": {
+    "plugins": [
+      "@react-native-community/datetimepicker"
+    ],
     "name": "StudyMeets",
     "slug": "StudyMeets",
     "scheme": "StudyMeets",
