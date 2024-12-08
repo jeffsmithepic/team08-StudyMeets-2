@@ -13,11 +13,15 @@
       "distribution": "internal"
     },
     "production": {
-      "workflow": "managed",
       "autoIncrement": true,
       "distribution": "store",
       "android": {
-        "buildType": "apk"
+        "buildType": "apk",
+        "workflow": "managed"
+      },
+      "ios": {
+        "buildType": "archive",
+        "workflow": "managed"
       }
     }
   },
