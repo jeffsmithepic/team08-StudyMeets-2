@@ -21,14 +21,14 @@
       "infoPlist": {
         "NSPhotoLibraryUsageDescription": "This app requires access to your photo library to select profile images."
       },
-      "bundleIdentifier": "com.garviny.StudyMeets"
+      "bundleIdentifier": "com.studymeets"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.garviny.StudyMeets"
+      "package": "com.stduymeets"
     },
     "web": {
       "favicon": "./assets/favicon.png"
