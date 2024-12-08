@@ -35,8 +35,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "2146b7fe-9273-4827-a535-83dd3ce6a9bc"
+        "projectId": "ec46cd41-6d7a-4cc9-8e3f-a3fc93462998"
       }
-    }
+    },
+    "owner": "wchiba"
   }
 }
